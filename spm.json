@@ -1,0 +1,13 @@
+{
+  "name": "test-pull",
+  "version": "1.0.0",
+  "description": "A new SPM skill package",
+  "main": "index.js",
+  "author": "lakshitsoni",
+  "license": "MIT",
+  "skills": {
+    "test-push": "1.0.0"
+  },
+  "keywords": [],
+  "template": "starter"
+}

@@ -1,0 +1,11 @@
+{
+  "lockfileVersion": 1,
+  "packages": {
+    "test-push@1.0.0": {
+      "name": "test-push",
+      "version": "1.0.0",
+      "integrity": "8fce004cf45a161de4bdbe9dc204a59a69bd2670f59787ef9f778c7f1b64ef1a",
+      "resolved": "https://github.com/agent-spm-registry/test-push/releases/download/v1.0.0/test-push-1.0.0.tgz"
+    }
+  }
+}
